@@ -1,4 +1,4 @@
-****# .NET 8 AOT Support with Database Access
+# .NET 8 AOT Support with Database Access
 
 This sample project uses the Native AOT support found in .NET 8. I've altered the template to use a SQLite database to show that it's possible to do work with AOT.
 
